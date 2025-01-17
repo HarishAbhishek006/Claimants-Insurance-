@@ -1,1 +1,1 @@
-# Claimants-Insurance-
+# Claimant Insurance Project: Predicting Attorney Involvement
